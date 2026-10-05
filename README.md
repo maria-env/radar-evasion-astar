@@ -84,4 +84,4 @@ Three plot windows are shown in sequence (close each one to continue).
 
 ## Authors
 
-Group 81 – María Arias Rodríguez, Jorge Castañeda Vallenilla and Rodrigo Melero Moreno.
+Team project by María Arias Rodríguez, Jorge Castañeda Vallenilla and Rodrigo Melero Moreno.
